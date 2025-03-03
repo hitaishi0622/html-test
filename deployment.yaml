@@ -16,4 +16,4 @@ spec:
       - name: sample-web
         image: hitaishi0622/htmlpage:latest
         ports:
-        - containerPort: 8081
+        - containerPort: 80
